@@ -1,0 +1,22 @@
+﻿  Building 'hellodriver1' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\hellodriver1.inf
+  Stamping [Version] section with DriverVer=07/07/2023,16.13.54.621
+  Source.c
+  hellodriver1.vcxproj -> C:\Users\HoangThai\source\repos\hellodriver1\Debug\hellodriver1.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\HoangThai\source\repos\hellodriver1\Debug\hellodriver1.sys
+  
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\HoangThai\source\repos\hellodriver1\Debug\hellodriver1\hellodriver1.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\HoangThai\source\repos\hellodriver1\Debug\hellodriver1\hellodriver1.cat
+  
